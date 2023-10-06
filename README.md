@@ -49,6 +49,6 @@ The GAN code is based on a basic GAN architecture for educational purposes.
 The MNIST dataset is used for training and can be replaced with other datasets.
 Author
 
-Your Name
+Name  : NIRBHAY SEDHA 🤖🚀
 GitHub: nirbhaysedha
 Email: sedha9nirbhay@gmail.com
