@@ -19,7 +19,7 @@ Getting Started
 
 Clone this repository:
 
-git clone https://github.com/your-username/gan-image-generation.git
+git clone https://github.com/Nirbhaysedha/gan-image-generation.git
 cd gan-image-generation
 
 Run the GAN code:
